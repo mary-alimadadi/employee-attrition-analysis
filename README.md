@@ -24,13 +24,13 @@ The dashboard provides insights into employee turnover, highlights areas of conc
 
 ## 📸 Screenshots
 ### Overview
-![Overview](screenshots/overview.png)
+![Overview](screenshots/Overview.png)
 
 ### Deep Dive Analysis
-![Deep Dive](screenshots/deep_dive.png)
+![Deep Dive](screenshots/DeepDiveAnalysis.png)
 
 ### Action Plan
-![Action Plan](screenshots/action_plan.png)
+![Action Plan](screenshots/ActionPlan.png)
 
 
 ## 📊 Dataset
